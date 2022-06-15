@@ -60,12 +60,12 @@ export default function Skeldnet() {
                     worked with big content creators such as SocksFor1, Jelly,
                     Vannoss, to name but a few.
                 </p>
-                <Card style={{ width: "40rem" }}>
+                <Card style={{ maxWidth: "40rem" }}>
                     <Card.Img variant="top" src="/skeldnetappstore.png" />
                     <Card.Subtitle>The skeld.net app store page</Card.Subtitle>
                 </Card>
                 <br />
-                <Card style={{ width: "40rem" }}>
+                <Card style={{ maxWidth: "40rem" }}>
                     <Card.Img variant="top" src="/skeldnetmetrics.webp" />
                     <Card.Subtitle>
                         The skeld.net app total metrics as of 12/05/2021

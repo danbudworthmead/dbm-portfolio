@@ -47,7 +47,7 @@ export default function Tsr() {
                     the overnight build process and then parsed into the games
                     data at runtime.
                 </p>
-                <Card style={{ width: "50rem" }} className="mx-auto">
+                <Card style={{ maxWidth: "50rem" }} className="mx-auto">
                     <Card.Img variant="top" src="/images/tsr.webp" />
                     <Card.Subtitle>
                         The team adventure mode selection screen
