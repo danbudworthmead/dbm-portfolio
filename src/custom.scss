@@ -1,0 +1,22 @@
+$primary: #219ebc;
+$secondary: #023047;
+$tertiary: #8ecae6;
+$quaternary: #ffb703;
+$quinary: #fb8500;
+
+@font-face {
+    font-family: "Tommy";
+    src: url("tommy.otf");
+}
+
+$theme-colors: (
+    ) !default;
+$theme-colors: map-merge(("primary": $primary, // Primary is required to make bootstrap play nicely.
+            "secondary": $secondary,
+            "tertiary": $tertiary,
+            "quaternary": $quaternary,
+            "quinary": $quinary,
+        ), $theme-colors
+);
+
+@import "bootstrap/scss/bootstrap.scss";
