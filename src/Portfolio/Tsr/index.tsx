@@ -1,18 +1,7 @@
-import React, { useState } from "react";
-import {
-    Button,
-    Card,
-    Carousel,
-    Collapse,
-    Container,
-    ListGroup,
-    ListGroupItem,
-} from "react-bootstrap";
-import YouTube from "react-youtube";
+import React from "react";
+import { Card, Container } from "react-bootstrap";
 
 export default function Tsr() {
-    const [open, setOpen] = useState(false);
-
     return (
         <Container className="pt-5 fs-3">
             <div className="py-5">

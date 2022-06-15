@@ -1,19 +1,8 @@
-import React, { useState } from "react";
-import {
-    Button,
-    Card,
-    Carousel,
-    Collapse,
-    Container,
-    ListGroup,
-    ListGroupItem,
-    Row,
-} from "react-bootstrap";
+import React from "react";
+import { Button, Card, Container } from "react-bootstrap";
 import YouTube from "react-youtube";
 
 export default function Skeldnet() {
-    const [open, setOpen] = useState(false);
-
     return (
         <Container className="pt-5 fs-3">
             <div className="pt-5">

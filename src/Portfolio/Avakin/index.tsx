@@ -1,18 +1,7 @@
 import React, { useState } from "react";
-import {
-    Button,
-    Card,
-    Carousel,
-    Collapse,
-    Container,
-    ListGroup,
-    ListGroupItem,
-} from "react-bootstrap";
-import YouTube from "react-youtube";
+import { Card, Container } from "react-bootstrap";
 
 export default function Avakin() {
-    const [open, setOpen] = useState(false);
-
     return (
         <Container className="pt-5 fs-3">
             <div className="py-5">
@@ -46,7 +35,7 @@ export default function Avakin() {
                     systems are in python, and the automation dashboard I have
                     built is in ReactJS.
                 </p>
-                <Card style={{ width: "50rem" }} className="mx-auto">
+                <Card style={{ maxWidth: "50rem" }} className="mx-auto">
                     <Card.Img variant="top" src="/images/avakin.webp" />
                 </Card>
             </div>
