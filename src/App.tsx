@@ -18,6 +18,7 @@ function App() {
             style={{ fontFamily: "Tommy" }}
         >
             <Container fluid>
+                <Router></Router>
                 <Navigation></Navigation>
                 <Routes>
                     <Route path="/" element={<Landing />} />
