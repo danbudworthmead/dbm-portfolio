@@ -70,7 +70,7 @@ export default function Skeldnet() {
                         href="https://github.com/Impostor/Impostor"
                         target="_blank"
                     >
-                        https://github.com/Impostor/Impostor
+                        Impostor
                     </a>{" "}
                     for myself and my friends to play as we were starting to get
                     a bit bored of regular Among Us game play.
@@ -78,7 +78,7 @@ export default function Skeldnet() {
                 <p>
                     Shortly after we played it I posted a video demo clip of it.
                 </p>
-                <YouTube videoId="ucfMyGcMaX0" />
+                <YouTube videoId="ucfMyGcMaX0" iframeClassName="mw-100 p-2" />
                 <p>
                     I was soon contacted by a YouTuber with a few hundred
                     subscribers who played it and also uploaded a video on it.
@@ -116,13 +116,13 @@ export default function Skeldnet() {
                     ten custom modes such as;
                 </p>
                 <h3>Slenderman</h3>
-                <YouTube videoId="TrF_h8RxYN4" />
+                <YouTube videoId="TrF_h8RxYN4" iframeClassName="mw-100 p-2" />
                 <h3>Zombies</h3>
-                <YouTube videoId="N6BxO04mLDw" />
+                <YouTube videoId="N6BxO04mLDw" iframeClassName="mw-100 p-2" />
                 <h3>Crazy Colors</h3>
-                <YouTube videoId="4slfj0DBBZI" />
+                <YouTube videoId="4slfj0DBBZI" iframeClassName="mw-100 p-2" />
                 <h3>Twins</h3>
-                <YouTube videoId="rl1QxHeb9zo" />
+                <YouTube videoId="rl1QxHeb9zo" iframeClassName="mw-100 p-2" />
             </div>
             <br />
         </Container>
