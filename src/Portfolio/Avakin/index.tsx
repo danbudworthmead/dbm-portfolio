@@ -11,6 +11,11 @@ export default function Avakin() {
                     2020. My day to day work involves working in a multitude of
                     different systems, fixing bugs and adding new features.
                 </p>
+                <br />
+                <Card style={{ maxWidth: "50rem" }} className="mx-auto">
+                    <Card.Img variant="top" src="/images/avakin.webp" />
+                </Card>
+                <br />
                 <p>
                     I have developed new features for the QA automation system,
                     added extra info to end user front end error messages, among
@@ -35,9 +40,6 @@ export default function Avakin() {
                     systems are in python, and the automation dashboard I have
                     built is in ReactJS.
                 </p>
-                <Card style={{ maxWidth: "50rem" }} className="mx-auto">
-                    <Card.Img variant="top" src="/images/avakin.webp" />
-                </Card>
                 <br />
                 <Card style={{ maxWidth: "50rem" }} className="mx-auto">
                     <Card.Img
