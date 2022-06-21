@@ -38,6 +38,13 @@ export default function Avakin() {
                 <Card style={{ maxWidth: "50rem" }} className="mx-auto">
                     <Card.Img variant="top" src="/images/avakin.webp" />
                 </Card>
+                <br />
+                <Card style={{ maxWidth: "50rem" }} className="mx-auto">
+                    <Card.Img
+                        variant="top"
+                        src="/images/avakinautomation.png"
+                    />
+                </Card>
             </div>
         </Container>
     );
