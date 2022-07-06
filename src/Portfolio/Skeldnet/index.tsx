@@ -32,9 +32,9 @@ export default function Skeldnet() {
                 </Container>
                 <h2>Overview</h2>
                 <p>
-                    This is my first lucrative solo project. skeld.net is a
+                    This is my first lucrative solo project. Skeld.net is a
                     custom server side unofficial add-on to the popular game
-                    Among Us. skeld.net at the point of writing this has totaled
+                    Among Us. Skeld.net at the point of writing this has totaled
                     2.6 million downloads on the Google Play store and I plan to
                     release an iOS app in the coming months.
                 </p>
@@ -63,7 +63,7 @@ export default function Skeldnet() {
                 <br />
                 <h2>In-Depth</h2>
                 <p>
-                    skeld.net was originally just a custom mode called “Zombies
+                    Skeld.net was originally just a custom mode called “Zombies
                     Are Among Us” created around Halloween 2020. It was a server
                     side plugin I created for{" "}
                     <a
