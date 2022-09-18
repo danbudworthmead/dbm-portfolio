@@ -80,7 +80,7 @@ export default function Timeline() {
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--education"
-                date="2020-2022"
+                date="2020-2021"
                 iconStyle={{ background: "#fb8500" }}
             >
                 <h3 className="vertical-timeline-element-title">Avakin Life</h3>
@@ -112,7 +112,7 @@ export default function Timeline() {
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--education"
-                date="2022-Present"
+                date="2021-2022"
                 iconStyle={{ background: "#fb8500" }}
             >
                 <h3 className="vertical-timeline-element-title">Avakin Life</h3>
@@ -126,6 +126,21 @@ export default function Timeline() {
                     responsibilities and join the quality assurance team.
                 </p>
                 <Button href="/avakin">Read more</Button>
+            </VerticalTimelineElement>
+            <VerticalTimelineElement
+                className="vertical-timeline-element--education"
+                date="2022-Present"
+                iconStyle={{ background: "#fb8500" }}
+            >
+                <h3 className="vertical-timeline-element-title">Avakin Life</h3>
+                <h4>Oxford Medical Simulation</h4>
+                <h5>Software Development Engineer in Test</h5>
+                <p>
+                    WIP
+                </p>
+                {
+                // <Button href="/">Read more</Button>
+                }
             </VerticalTimelineElement>
         </VerticalTimeline>
     );

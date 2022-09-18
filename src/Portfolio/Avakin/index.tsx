@@ -31,7 +31,7 @@ export default function Avakin() {
                 <p>
                     I have since taken on more responsibilities within the
                     company and earned a the new title of QA Automation
-                    Engineer. I know maintain and improve the automated testing
+                    Engineer. I now maintain and improve the automated testing
                     systems. This is mostly for regression testing but also
                     includes soak testing and memory profiling.
                 </p>
