@@ -132,7 +132,7 @@ export default function Timeline() {
                 date="2022-Present"
                 iconStyle={{ background: "#fb8500" }}
             >
-                <h3 className="vertical-timeline-element-title">Avakin Life</h3>
+                <h3 className="vertical-timeline-element-title">Medical Simulation</h3>
                 <h4>Oxford Medical Simulation</h4>
                 <h5>Software Development Engineer in Test</h5>
                 <p>
