@@ -10,6 +10,8 @@ import Forza from "./Portfolio/Forza";
 import Avakin from "./Portfolio/Avakin";
 import About from "./About";
 import Contact from "./Contact";
+import DeepSpace from "./Games/DeepSpace";
+import DeepSpacePrivacy from "./Games/DeepSpacePrivacy";
 
 function App() {
     return (
@@ -27,6 +29,8 @@ function App() {
                     <Route path="/tsr" element={<Tsr />} />
                     <Route path="/forza" element={<Forza />} />
                     <Route path="/avakin" element={<Avakin />} />
+                    <Route path="/game" element={<DeepSpace />} />
+                    <Route path="/ddsprivacy" element={<DeepSpacePrivacy />} />
                 </Routes>
             </Container>
         </div>
