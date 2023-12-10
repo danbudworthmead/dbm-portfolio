@@ -41,8 +41,9 @@ export default function DeepSpacePrivacy() {
                   </p> <div><p>
                       Link to privacy policy of third party service providers
                       used by the game
-                    </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li><li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">AdMob</a></li>
-                    <li><a href="https://unity3d.com/legal/privacy-policy" target="_blank">Unity</a></li>
+                    </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noreferrer">Google Play Services</a></li>
+                    <li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank" rel="noreferrer">AdMob</a></li>
+                    <li><a href="https://unity3d.com/legal/privacy-policy" target="_blank" rel="noreferrer">Unity</a></li>
                     </ul></div> <p><strong>Log Data</strong></p> <p>
                     I want to inform you that whenever
                     you use my Service, in a case of an error in the

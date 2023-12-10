@@ -12,6 +12,7 @@ export default function Skeldnet() {
                         className="bg-tertiary mx-3"
                         href="https://skeld.net"
                         target="_blank"
+                        rel="noreferrer"
                     >
                         Website
                     </Button>
@@ -19,6 +20,7 @@ export default function Skeldnet() {
                         className="bg-tertiary mx-3"
                         href=" https://play.google.com/store/apps/details?id=net.skeld.switcher"
                         target="_blank"
+                        rel="noreferrer"
                     >
                         Android App
                     </Button>
@@ -26,6 +28,7 @@ export default function Skeldnet() {
                         className="bg-tertiary mx-3"
                         href=" https://www.patreon.com/skeld_net"
                         target="_blank"
+                        rel="noreferrer"
                     >
                         Patreon
                     </Button>
