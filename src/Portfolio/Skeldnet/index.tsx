@@ -72,6 +72,7 @@ export default function Skeldnet() {
                     <a
                         href="https://github.com/Impostor/Impostor"
                         target="_blank"
+                        rel="noopener noreferrer"
                     >
                         Impostor
                     </a>{" "}
