@@ -14,6 +14,9 @@ import About from "./About";
 import Contact from "./Contact";
 import DeepSpace from "./Games/DeepSpace";
 import DeepSpacePrivacy from "./Games/DeepSpacePrivacy";
+import OMS from "./Portfolio/OMS";
+import Jams from "./Portfolio/Jams";
+import Wood from "./Portfolio/Wood";
 
 function App() {
     return (
@@ -33,6 +36,9 @@ function App() {
                     <Route path="/avakin" element={<Avakin />} />
                     <Route path="/game" element={<DeepSpace />} />
                     <Route path="/ddsprivacy" element={<DeepSpacePrivacy />} />
+                    <Route path="/oms" element={<OMS />} />
+                    <Route path="/jams" element={<Jams />} />
+                    <Route path="/woodworking" element={<Wood />} />
                 </Routes>
             </Container>
         </div>

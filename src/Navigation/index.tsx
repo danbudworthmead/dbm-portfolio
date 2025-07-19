@@ -49,18 +49,27 @@ export default function Navigation() {
                         id="nav-dropdown"
                         menuVariant="dark"
                     >
-                        <NavDropdown.Item as={Link} to={"/skeldnet"}>
-                            Skeld.net
-                        </NavDropdown.Item>
-                        <NavDropdown.Item as={Link} to={"/tsr"}>
-                            Team Sonic Racing
+                        <NavDropdown.Item as={Link} to={"/oms"}>
+                            Oxford Medical Simulation
                         </NavDropdown.Item>
                         <NavDropdown.Item as={Link} to={"/forza"}>
                             Forza Horizon
                         </NavDropdown.Item>
+                        <NavDropdown.Item as={Link} to={"/tsr"}>
+                            Team Sonic Racing
+                        </NavDropdown.Item>
                         <NavDropdown.Item as={Link} to={"/avakin"}>
                             Avakin Life
                         </NavDropdown.Item>
+                        <NavDropdown.Item as={Link} to={"/skeldnet"}>
+                            Skeld.net
+                        </NavDropdown.Item>
+                        <NavDropdown.Item as={Link} to={"/jams"}>
+                            Game Jams
+                        </NavDropdown.Item>
+                        {/*<NavDropdown.Item as={Link} to={"/woodworking"}>
+                            Woodworking?
+                        </NavDropdown.Item>*/}
                     </NavDropdown>
                 </Navbar.Collapse>
             </Container>

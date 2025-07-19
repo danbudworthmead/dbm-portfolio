@@ -18,7 +18,7 @@ export default function Landing() {
                         <Tile title={"Avakin Life"} link={"avakin"} image={"avakin"} />
                         <Tile title={"Skeld.net"} link={"skeldnet"} image={"skeld"} />
                         <Tile title={"Game Jams"} link={"jams"} image={"jams"} />
-                        <Tile title={"Woodworking?"} link={"wood"} image={"wood"} />
+                        {/*<Tile title={"Woodworking?"} link={"woodworking"} image={"wood"}/>*/}
                     </div>
                 </div>
             </div>
