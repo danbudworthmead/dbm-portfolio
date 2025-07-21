@@ -8,10 +8,10 @@ export default function Landing() {
         >
             <div className="text-center">
                 <div className="pt-5 pb-5" />
-                <h1 style={{ fontSize: "5vw" }}>Daniel Budworth-Mead</h1>
-                <p style={{ fontSize: "3vw" }}>Video Games Programmer</p>
+                <h1 className="display-1">Daniel Budworth-Mead</h1>
+                <p className="display-4">Video Games Programmer</p>
                 <div className="container-fluid p-5">
-                    <div className="row g-4 justify-content-center">
+                    <div className="row g-4 justify-content-center" style={{ maxWidth: "96rem" }}>
                         <Tile title={"Oxford Medical Simulation"} link={"oms"} image={"oms"} />
                         <Tile title={"Forza Horizon"} link={"forza"} image={"forza"} />
                         <Tile title={"Team Sonic Racing"} link={"tsr"} image={"tsr"} />

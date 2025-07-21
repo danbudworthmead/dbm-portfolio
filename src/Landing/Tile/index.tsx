@@ -18,7 +18,7 @@ export default function Tile({ title, link, image }: TileProps) {
     });
 
     return (
-        <div className="col-12 col-md-6 col-lg-4 m-3 position-relative p-0 bg-white" 
+        <div className="m-3 position-relative p-0 bg-white"
               style={{ maxWidth: "30rem" }}
               onMouseEnter={() => setHovered(true)}
               onMouseLeave={() => setHovered(false)}>
