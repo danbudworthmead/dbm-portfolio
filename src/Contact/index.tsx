@@ -17,7 +17,7 @@ export default function Contact() {
                 </Button>
                 <Button
                     className="text-tertiary m-2"
-                    href="danbudworthmead-cv 2023-02-13.pdf"
+                    href="DanBudworthMeadCV.pdf"
                     target="_blank"
                 >
                     Download a PDF of my CV
