@@ -1,4 +1,4 @@
-﻿import React from "react";
+import React from "react";
 import { Card, Container, Carousel } from "react-bootstrap";
 
 export default function JamsCarousel() {

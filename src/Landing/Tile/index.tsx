@@ -1,4 +1,4 @@
-﻿import React from "react";
+import React from "react";
 import {Card, Nav} from "react-bootstrap";
 import { useSpring, animated } from 'react-spring';
 import { useState } from 'react';
