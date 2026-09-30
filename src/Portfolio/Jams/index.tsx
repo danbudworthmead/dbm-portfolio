@@ -14,7 +14,7 @@ export default function Jams() {
                 <p>
                     Games can be played on my itch.io page.
                     <br />
-                    <a href="https://badmannergames.itch.io/" target="_blank">https://badmannergames.itch.io/</a>
+                    <a href="https://badmannergames.itch.io/" target="_blank" rel="noreferrer">https://badmannergames.itch.io/</a>
                 </p>
                 <JamsCarousel />
             </div>
