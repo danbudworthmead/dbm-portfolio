@@ -12,9 +12,9 @@ export default function Landing() {
                 <p className="display-4">Video Games Programmer</p>
                 <div className="container-fluid p-5">
                     <div className="row g-4 justify-content-center" style={{ maxWidth: "96rem" }}>
-                        <Tile title={"Oxford Medical Simulation"} link={"oms"} image={"oms"} />
                         <Tile title={"Forza Horizon"} link={"forza"} image={"forza"} />
                         <Tile title={"Team Sonic Racing"} link={"tsr"} image={"tsr"} />
+                        <Tile title={"Oxford Medical Simulation"} link={"oms"} image={"oms"} />
                         <Tile title={"Avakin Life"} link={"avakin"} image={"avakin"} />
                         <Tile title={"Skeld.net"} link={"skeldnet"} image={"skeld"} />
                         <Tile title={"Game Jams"} link={"jams"} image={"jams"} />
