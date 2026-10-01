@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import "bootswatch/dist/darkly/bootstrap.min.css";
+import "bootswatch/dist/darkly/bootstrap.css";
 import { BrowserRouter } from "react-router-dom";
 import "./custom.scss";
 
