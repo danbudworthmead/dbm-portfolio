@@ -17,6 +17,13 @@ export default function Contact() {
                 </Button>
                 <Button
                     className="text-tertiary m-2"
+                    href="https://github.com/danbudworthmead"
+                    target="_blank"
+                >
+                    GitHub
+                </Button>
+                <Button
+                    className="text-tertiary m-2"
                     href="DanBudworthMeadCV.pdf"
                     target="_blank"
                 >
