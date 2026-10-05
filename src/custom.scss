@@ -19,4 +19,13 @@ $theme-colors: map-merge(("primary": $primary, // Primary is required to make bo
         ), $theme-colors
 );
 
+$escaped-characters: (
+    ("%", "%25"),
+    ("<", "%3c"),
+    (">", "%3e"),
+    ("#", "%23"),
+    ("(", "%28"),
+    (")", "%29"),
+) !default;
+
 @import "bootstrap/scss/bootstrap.scss";
