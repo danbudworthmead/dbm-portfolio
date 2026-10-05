@@ -8,8 +8,7 @@ export default function About() {
             <div className="pt-5">
                 <h1>About</h1>
                 <p>
-                    Bristol born video games programmer currently residing in
-                    Nottingham.
+                    Bristol born video games programmer living on a narrowboat, meaning I can relocate anywhere!
                     <br />
                     Passionate about problem solving and creating fun user
                     experiences.
